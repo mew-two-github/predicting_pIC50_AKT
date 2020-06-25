@@ -1,0 +1,5 @@
+<Root>
+    <Group name="2D">
+        <Descriptor name="AcidicGroupCount" value="true"/>
+    </Group>
+</Root>

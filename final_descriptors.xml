@@ -1,0 +1,11 @@
+<Root>
+    <Group name="2D">
+        <Descriptor name="RingCountDescriptor" value="True"/>
+        <Descriptor name="AutocorrelationDescriptor" value="True"/>
+        <Descriptor name="ChiChainDescriptor" value="True"/>
+        <Descriptor name="PaDELChiPathDescriptor" value="True"/>
+        <Descriptor name="ElectrotopologicalStateAtomTypeDescriptor" value="True"/>
+        <Descriptor name="ExtendedTopochemicalAtomDescriptor" value="True"/>
+        <Descriptor name="InformationContentDescriptor" value="True"/>
+    </Group>
+</Root>

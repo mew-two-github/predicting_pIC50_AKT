@@ -1,0 +1,7 @@
+<Root>
+    <Group name="2D">
+        <Descriptor name="AtomCount">
+        	<Descriptor name = "nH" value= "true"/>
+        </Descriptor>
+    </Group>
+</Root>

@@ -1,0 +1,18 @@
+Processing 1 in 1.mol (1/8). 
+Processing 7 in 7.mol (6/8). 
+Processing 10 in 10.mol (2/8). 
+Processing 3 in 3.mol (3/8). 
+Processing 6 in 6.mol (5/8). 
+Processing 5 in 5.mol (4/8). 
+Processing 9 in 9.mol (8/8). 
+Processing 8 in 8.mol (7/8). 
+Descriptor calculation completed in 1.469 secs . Average speed: 0.18 s/mol.
+Processing 1 in 1.mol (1/8). 
+Processing 10 in 10.mol (2/8). 
+Processing 3 in 3.mol (3/8). 
+Processing 5 in 5.mol (4/8). 
+Processing 6 in 6.mol (5/8). 
+Processing 7 in 7.mol (6/8). 
+Processing 8 in 8.mol (7/8). 
+Processing 9 in 9.mol (8/8). 
+Descriptor calculation completed in 2.158 secs . Average speed: 0.27 s/mol.
